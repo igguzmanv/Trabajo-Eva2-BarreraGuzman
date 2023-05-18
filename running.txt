@@ -1,0 +1,14 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS    PORTS     NAMES
+fe6e5fb0e1ee   815c8c75dfc0   "/bin/sh -c 'pip ins…"   2 minutes ago   Created             amazing_jepsen
+56fae218f1d3   hello-world    "/hello"                 19 hours ago    Created             happy_khorana
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS    PORTS     NAMES
+fe6e5fb0e1ee   815c8c75dfc0   "/bin/sh -c 'pip ins…"   6 minutes ago   Created             amazing_jepsen
+56fae218f1d3   hello-world    "/hello"                 19 hours ago    Created             happy_khorana
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS    PORTS     NAMES
+e19403391774   815c8c75dfc0   "/bin/sh -c 'pip ins…"   2 minutes ago    Created             elegant_gagarin
+fe6e5fb0e1ee   815c8c75dfc0   "/bin/sh -c 'pip ins…"   11 minutes ago   Created             amazing_jepsen
+56fae218f1d3   hello-world    "/hello"                 19 hours ago     Created             happy_khorana
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS    PORTS     NAMES
+e19403391774   815c8c75dfc0   "/bin/sh -c 'pip ins…"   8 minutes ago    Created             elegant_gagarin
+fe6e5fb0e1ee   815c8c75dfc0   "/bin/sh -c 'pip ins…"   16 minutes ago   Created             amazing_jepsen
+56fae218f1d3   hello-world    "/hello"                 19 hours ago     Created             happy_khorana
